@@ -1,0 +1,30 @@
+# Docker
+*.dockerfile
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# pre-commit
+.pre-commit-config.yaml
+setup.sh
+setup.bat
+setup.ps1
+
+# Git
+.gitignore
+.gitattributes
+.git/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
